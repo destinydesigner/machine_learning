@@ -1,2 +1,4 @@
 Pipfile.lock
 .idea
+*.pyc
+__pycache__
